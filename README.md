@@ -33,9 +33,12 @@ Molly McGree:
 - Added logic for when all the targets are destroyed something is triggered
 
 ### How the application works:
-- Open Unreal Engine
-- Find .uproject file and open it
-- Press green start button or ALT-P
+- clone the github repo to your computer
+- Open Unreal Engine (ver. 5.3.2 was used)
+- Select "Recent Projects"
+- Select "browse..." in bottom right
+- Find .uproject file (wherever you cloned the repo) and open it
+- Press green start button or ALT-P once the unreal has finished loading
 
 ### References
 - Blueprints Visual Scripting for Unreal Engine 5 - Third Edition
