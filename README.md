@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # CS IDEA 310H Homework 01
 
 ### Links:
@@ -49,3 +50,5 @@ Molly McGree:
 - 10/09/24 Met outside of class to figure out what we were doing and testing how to use github with unreal
 - 10/11/24 Met inside lab session, working on the project figuring out who was doing what
 - Communicated on Teams to futher clarify what each person was working on 
+=======
+>>>>>>> Stashed changes
